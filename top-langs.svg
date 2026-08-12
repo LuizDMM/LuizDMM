@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="175" viewBox="0 0 300 175" role="img" aria-label="Top languages">
+  <title>Most Used Languages</title>
+  <rect x="0.5" y="0.5" width="299" height="174" rx="8" fill="#1a1b27" stroke="#30363d"/>
+  <text x="25" y="35" font-family="Segoe UI, Ubuntu, sans-serif" font-size="18" font-weight="600" fill="#70a5fd">Top Languages</text>
+  <text x="25" y="52" font-family="Segoe UI, Ubuntu, sans-serif" font-size="10" fill="#565f89">Owned repos only (excludes forks)</text>
+
+  <rect x="25.0" y="68" width="125.0" height="10" fill="#7aa2f7" rx="3"/>
+  <rect x="150.0" y="68" width="50.0" height="10" fill="#9ece6a"/>
+  <rect x="200.0" y="68" width="25.0" height="10" fill="#e0af68"/>
+  <rect x="225.0" y="68" width="25.0" height="10" fill="#f7768e"/>
+  <rect x="250.0" y="68" width="25.0" height="10" fill="#bb9af7"/>
+  <circle cx="30" cy="100" r="5" fill="#7aa2f7"/>
+  <text x="42" y="104" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" fill="#a9b1d6">Python 50.0%</text>
+  <circle cx="30" cy="118" r="5" fill="#9ece6a"/>
+  <text x="42" y="122" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" fill="#a9b1d6">HTML 20.0%</text>
+  <circle cx="30" cy="136" r="5" fill="#e0af68"/>
+  <text x="42" y="140" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" fill="#a9b1d6">Lua 10.0%</text>
+  <circle cx="30" cy="154" r="5" fill="#f7768e"/>
+  <text x="42" y="158" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" fill="#a9b1d6">Dockerfile 10.0%</text>
+  <circle cx="30" cy="172" r="5" fill="#bb9af7"/>
+  <text x="42" y="176" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" fill="#a9b1d6">JavaScript 10.0%</text>
+</svg>

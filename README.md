@@ -1,16 +1,73 @@
-![](social_banner.png)
-# Luiz D. M. Mainart
-### Full-stack freelancer developer
+<!--
+GitHub profile README for https://github.com/LuizDMM/LuizDMM
 
-⤷ I'm a developer that loves helping startups to develop their business ideas.
+Files to commit in this repo:
+  - social_banner.png  (copy from hero-banner.png)
+  - stats.png          (static — do NOT use github-readme-stats.vercel.app)
+  - top-langs.png      (static)
+  - README.md          (this file)
 
- <a aligh="left" href="https://luizmainart.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a> <a aligh="left" href="mailto:luizdmmainart@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> <a aligh="left" href="https://twitter.com/LuizDMM" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/twitter.svg" alt="Twitter" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/luiz-mainart" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>  
+Why static cards?
+  Official https://github-readme-stats.vercel.app is often DEPLOYMENT_PAUSED / rate-limited.
+  Local PNG in the profile repo always renders on GitHub.
+-->
 
-⚐ Based in Brazil
+<p align="center">
+  <img src="social_banner.png" alt="Luiz D. M. Mainart — Backend Engineer" width="100%" />
+</p>
 
-ϟ Currently building a django backend for a new company
+<h1 align="center">Luiz D. M. Mainart</h1>
+<p align="center">
+  <strong>Backend Engineer</strong> · Distributed systems · High-performance Python<br/>
+  Remote-ready · Brazil (UTC−3) · English (C1) / Portuguese
+</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/luiz-mainart/">LinkedIn</a> ·
+  <a href="mailto:luizdmmainart@gmail.com">Email</a> ·
+  <a href="https://github.com/LuizDMM">GitHub</a>
+</p>
 
+---
 
- ## Skills
-   <a href="https://www.python.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/python.svg" alt="Python" width="25" height="25" /></a> <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/typescript.svg" alt="Typescript" width="25" height="25" /></a>  <a href="https://html.com/html5/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/html5.svg" alt="HTML5" width="25" height="25" /></a> <a href="https://css3.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/css3.svg" alt="CSS3" width="25" height="25" /></a> <a href="https://reactjs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/react.svg" alt="React" width="25" height="25" /></a> <a href="http://tailwindcss.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/tailwind.svg" alt="Tailwind" width="25" height="25" /></a>  <a href="https://www.mongodb.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/mongodb.svg" alt="Mongo DB" width="25" height="25" /></a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/postgresql.svg" alt="PostgreSQL" width="25" height="25" /></a> 
+### What I build
+- **High-throughput backends** — APIs, async workers, event buses (RabbitMQ/Celery), Postgres
+- **Real-time / data-heavy systems** — WebSockets, market-data style ingestion, reliability under load
+- **Observability** — OpenTelemetry, Prometheus/Grafana; past OSS work on LLM observability (OpenLLMetry)
+- **Cloud-native delivery** — Docker, Kubernetes, GCP (also comfortable with AWS basics + CI)
+
+### Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,ts,postgres,redis,docker,kubernetes,gcp,aws,linux,git,githubactions&theme=dark" alt="Stack icons" />
+</p>
+
+`Python` · `Django` / `DRF` · `TypeScript` · `PostgreSQL` · `Redis` · `RabbitMQ` · `Celery` · `Docker` · `Kubernetes` · `GCP` · `OpenTelemetry`
+
+### Selected proof (public)
+| Signal | Detail |
+|--------|--------|
+| **OpenLLMetry** | Contributed to [traceloop/openllmetry](https://github.com/traceloop/openllmetry) (OpenTelemetry-based LLM observability). Prefer upstream PRs over fork pins. |
+| **Production systems** | Multi-exchange trading backends, real-time feeds, cloud-native deploys — details on [LinkedIn](https://www.linkedin.com/in/luiz-mainart/) / résumé |
+
+### Currently
+- Full-time engineering (Human Data / AI systems evaluation workflows)
+- Light contractor backend work on the side
+- Preparing a **public systems project** (async job platform / reliability-focused) for portfolio pin
+
+### Looking for
+**Senior / strong Backend or Platform** roles — **remote international** (US/EU timezone overlap OK, async-friendly teams OK).
+
+---
+
+<p align="center">
+  <img src="stats.png" alt="GitHub stats" height="165" />
+  <img src="top-langs.png" alt="Top languages" height="165" />
+</p>
+
+<!--
+Stats/langs are STATIC images in this repo (stats.png, top-langs.png).
+Do not switch back to github-readme-stats.vercel.app — public instance is frequently paused.
+
+To refresh later (optional):
+  regenerate from GH public API and overwrite stats.png / top-langs.png
+-->
