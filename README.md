@@ -5,7 +5,7 @@
 <h1 align="center">Luiz D. M. Mainart</h1>
 <p align="center">
   <strong>Backend Engineer</strong> · Distributed systems · High-performance Python<br/>
-  Remote-ready · Brazil (UTC−3) · English (C1) / Portuguese
+  Remote-ready · Brazil (UTC−3) · English / Portuguese
 </p>
 
 <p align="center">
