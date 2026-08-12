@@ -13,7 +13,7 @@ Why static cards?
 -->
 
 <p align="center">
-  <img src="social_banner.png" alt="Luiz D. M. Mainart — Backend Engineer" width="100%" />
+  <img src="hero-banner.png" alt="Luiz D. M. Mainart — Backend Engineer" width="100%" />
 </p>
 
 <h1 align="center">Luiz D. M. Mainart</h1>
