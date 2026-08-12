@@ -1,19 +1,5 @@
-<!--
-GitHub profile README for https://github.com/LuizDMM/LuizDMM
-
-Files to commit in this repo:
-  - social_banner.png  (copy from hero-banner.png)
-  - stats.png          (static — do NOT use github-readme-stats.vercel.app)
-  - top-langs.png      (static)
-  - README.md          (this file)
-
-Why static cards?
-  Official https://github-readme-stats.vercel.app is often DEPLOYMENT_PAUSED / rate-limited.
-  Local PNG in the profile repo always renders on GitHub.
--->
-
 <p align="center">
-  <img src="hero-banner.png" alt="Luiz D. M. Mainart — Backend Engineer" width="100%" />
+  <img src="social_banner.png" alt="Luiz D. M. Mainart — Backend Engineer" width="100%" />
 </p>
 
 <h1 align="center">Luiz D. M. Mainart</h1>
@@ -38,7 +24,9 @@ Why static cards?
 
 ### Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,ts,postgres,redis,docker,kubernetes,gcp,aws,linux,git,githubactions&theme=dark" alt="Stack icons" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django,ts,postgres,redis,docker,kubernetes,gcp,aws,linux,git,githubactions&theme=dark" alt="Stack" />
+  </a>
 </p>
 
 `Python` · `Django` / `DRF` · `TypeScript` · `PostgreSQL` · `Redis` · `RabbitMQ` · `Celery` · `Docker` · `Kubernetes` · `GCP` · `OpenTelemetry`
@@ -52,7 +40,6 @@ Why static cards?
 ### Currently
 - Full-time engineering (Human Data / AI systems evaluation workflows)
 - Light contractor backend work on the side
-- Preparing a **public systems project** (async job platform / reliability-focused) for portfolio pin
 
 ### Looking for
 **Senior / strong Backend or Platform** roles — **remote international** (US/EU timezone overlap OK, async-friendly teams OK).
@@ -60,14 +47,6 @@ Why static cards?
 ---
 
 <p align="center">
-  <img src="stats.png" alt="GitHub stats" height="165" />
-  <img src="top-langs.png" alt="Top languages" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuizDMM&theme=tokyonight" height="180" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LuizDMM&theme=tokyonight" height="180" alt="Top languages by commit" />
 </p>
-
-<!--
-Stats/langs are STATIC images in this repo (stats.png, top-langs.png).
-Do not switch back to github-readme-stats.vercel.app — public instance is frequently paused.
-
-To refresh later (optional):
-  regenerate from GH public API and overwrite stats.png / top-langs.png
--->
